@@ -2,6 +2,7 @@
 <h1>Biblioteca API</h1>
 
 <p>Uma API simples para gerenciamento de livros, autores e categorias, desenvolvida com Django e Django REST Framework.</p>
+<p>Atividade foi desenvolvida individualmente por Hanah Silva e Siqueira.</p>
 
 <h2>Funcionalidades</h2>
 <ul>
